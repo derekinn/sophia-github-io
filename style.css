@@ -149,7 +149,7 @@ button:hover {
 
     /* Diminui um pouco mais o título para garantir que não quebre */
     #titulo-principal {
-        font-size: 36px; /* Era 38px */
+        font-size: 36px;
     }
 
     #coracao-titulo {
@@ -165,12 +165,12 @@ button:hover {
     }
 
     #motivo-texto {
-        font-size: 18px; /* Era 19px */
+        font-size: 18px;
     }
 
     /* Diminui a distância entre o post-it e os botões */
     .botoes {
-        margin-top: 15px; /* Era 25px */
+        margin-top: 15px;
     }
     
     button {
